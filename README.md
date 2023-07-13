@@ -6,6 +6,8 @@
 
 **Email**: sseo951124@gmail.com
 
+**Linkedin**: https://www.linkedin.com/in/sanghyuk-seo/
+
 ### My Notes & Code
 
 ### Education
@@ -22,7 +24,7 @@
 ### 🏆Awards
 - The highest performance team  for the final project at Alpaco Boot Camp
 - The highest performance team for the Natural Language Process(NLP) project at Alpaco Boot Camp
--  
+  
 ### Projects
 
 ## 2. Computer skills
