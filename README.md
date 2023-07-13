@@ -8,7 +8,8 @@
 
 **Linkedin**: https://www.linkedin.com/in/sanghyuk-seo/
 
-### My Notes & Code
+### My Notes
+<a href="https://www.notion.so/613feefb5fd1417c941896b12e3d0de4?pvs=4" target="_bland"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ### Education
 - University of Illinois at Urbana-Champaign (Graduated in Fall 2022)
