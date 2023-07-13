@@ -7,10 +7,8 @@
 **Email**: sseo951124@gmail.com
 
 **Linkedin**: https://www.linkedin.com/in/sanghyuk-seo/
-
 ### My Notes
 <a href="https://www.notion.so/613feefb5fd1417c941896b12e3d0de4?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-
 ### Education
 - University of Illinois at Urbana-Champaign (Graduated in Fall 2022)
   - Bachelor of Science, Major in Molecular and Cellular Biology
@@ -24,14 +22,12 @@
 - 01/2019 ~ 12/2020: Team Leader of External Corporation in KoJobs
 ### 🏆Awards
 - The highest performance team  for the final project at Alpaco Boot Camp
-- The highest performance team for the Natural Language Process(NLP) project at Alpaco Boot Camp
-  
+- The highest performance team for the Natural Language Process(NLP) project at Alpaco Boot Camp 
 ### Projects
 
 ## 2. Computer skills
-
 ### ✏Task
-
+dfdafafd
 ### ⚙️Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,linux,flask,mysql,selenium)](https://skillicons.dev)
 ### 💬Languages
