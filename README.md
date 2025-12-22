@@ -27,7 +27,6 @@
 
 ## 2. Computer skills
 ### ✏Task
-dfdafafd
 ### ⚙️Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,linux,flask,mysql,selenium)](https://skillicons.dev)
 ### 💬Languages
